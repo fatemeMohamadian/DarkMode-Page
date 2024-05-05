@@ -1,7 +1,7 @@
 # DarkMode-Page
 **Used By JS**
 
-👩‍💻😎 [Watch Demo](https://fatememohamadian.github.io/DarkMood-Page/)
+👩‍💻😎 [Watch Demo](https://fatememohamadian.github.io/DarkMode-Page/)
                                                            😎😉  
 
                                                            
